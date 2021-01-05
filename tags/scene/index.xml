@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>scene on Govinda Rajbhar</title>
+    <link>https://govraj.github.io/govinda_portfolio/tags/scene/</link>
+    <description>Recent content in scene on Govinda Rajbhar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 30 Nov 2020 10:58:08 -0400</lastBuildDate><atom:link href="https://govraj.github.io/govinda_portfolio/tags/scene/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 1: Restaurant Recommendation between Route</title>
+      <link>https://govraj.github.io/govinda_portfolio/post/project-1/</link>
+      <pubDate>Mon, 30 Nov 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://govraj.github.io/govinda_portfolio/post/project-1/</guid>
+      <description>Introduction: Build a recommendation system which will recommend restaurants between two places or a route on the basis of user taste by using British Columbia restaurant data.
+  Process: Get coordinates of source and destination place and use direction api to get route and use route coordinates to generate buffer of nearby coordinates in range of 5km after that filter restaurants on the basis of route buffer coordinates and now we have restaurants which is coming in our route.</description>
+    </item>
+    
+  </channel>
+</rss>
