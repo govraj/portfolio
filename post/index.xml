@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Govinda Rajbhar</title>
+    <link>https://govraj.github.io/portfolio/post/</link>
+    <description>Recent content in Projects on Govinda Rajbhar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://govraj.github.io/portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 1: Live Keywords Extraction API using FLask and NLP</title>
+      <link>https://govraj.github.io/portfolio/post/project-2/</link>
+      <pubDate>Tue, 08 Dec 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://govraj.github.io/portfolio/post/project-2/</guid>
+      <description>Introduction: Build a recommendation system which will recommend restaurants between two places or a route on the basis of user taste by using British Columbia restaurant data.
+  Process: Get coordinates of source and destination place and use direction api to get route and use route coordinates to generate buffer of nearby coordinates in range of 5km after that filter restaurants on the basis of route buffer coordinates and now we have restaurants which is coming in our route.</description>
+    </item>
+    
+    <item>
+      <title>Project 2: Restaurant Recommendation between Route</title>
+      <link>https://govraj.github.io/portfolio/post/project-1/</link>
+      <pubDate>Mon, 30 Nov 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://govraj.github.io/portfolio/post/project-1/</guid>
+      <description>Introduction: Build a recommendation system which will recommend restaurants between two places or a route on the basis of user taste by using British Columbia restaurant data.
+  Process: Get coordinates of source and destination place and use direction api to get route and use route coordinates to generate buffer of nearby coordinates in range of 5km after that filter restaurants on the basis of route buffer coordinates and now we have restaurants which is coming in our route.</description>
+    </item>
+    
+    <item>
+      <title>Project3: Cifar10 Image Classification using Deep Neural Network and Pytorch</title>
+      <link>https://govraj.github.io/portfolio/post/project-4/</link>
+      <pubDate>Wed, 25 Nov 2020 11:13:32 -0400</pubDate>
+      
+      <guid>https://govraj.github.io/portfolio/post/project-4/</guid>
+      <description>Introduction: I used cifar10 image dataset to build a deep learning image classifier. we have 10 type colar images in dataset and we are classifying them.
+  Process: Firstly i downloaded training and test dataset. splited data into train and validation set, created batch size, loaded data into dataloader. created base model, evaluation and accuracy function. created class and function to load data on GPU device. Trained data with 3 layer network 2 hidden and 1 output network using RELU as non-linear activation function and saved output in history variable and evaluated model with test data.</description>
+    </item>
+    
+    <item>
+      <title>Project 4 Movie Reviews Sentiment Analysis using CNN</title>
+      <link>https://govraj.github.io/portfolio/post/project-3/</link>
+      <pubDate>Wed, 18 Nov 2020 11:13:32 -0400</pubDate>
+      
+      <guid>https://govraj.github.io/portfolio/post/project-3/</guid>
+      <description>Introduction: I Used IMDB movie reviews to analyze users sentiment towards each movie if positive or negative. it’s supervised learning based model using CNN and word embeddings (word2vector)
+  Process: Firstly i did text preprocessing like data cleaning, stopwords removal from reviews, lemmatization etc. then i vectorized text using pre-trained word embeddings word2vector after that trained the vectorized text using convolutional neural networks(CNN).
+  Technology and Libraries: SpaCy, NLTK, Python, CNN, Word Embeddings, RE.</description>
+    </item>
+    
+  </channel>
+</rss>
